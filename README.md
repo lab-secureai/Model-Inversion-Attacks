@@ -39,4 +39,13 @@ Any Nvidia GPU with 8GB or larger memory is ok. The experiments were initially p
 
 ## Acknowledgements
 The article was completed with support from the Academy of Cryptography Techniques. Anh Tu Tran is partly support by a Japan Advanced Institute of Science and Technology (JAIST) PhD Fellowship in Knowledge Science.
+## References
+- Z. Zhang, X. Wang, J. Huang and S. Zhang, "Analysis and Utilization of Hidden Information in Model Inversion Attacks," in IEEE Transactions on Information Forensics and Security, doi: [10.1109/TIFS.2023.3295942](https://doi.org/10.1109/TIFS.2023.3295942).
+- Abadi, M., Chu, A., Goodfellow, I., McMahan, H.B., Mironov, I., Talwar, K.,Zhang, L.: Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. pp. 308–318 (2016)
+- Aji, A.F., Heafield, K.: Sparse communication for distributed gradient descent. arXiv preprint arXiv:1704.05021 (2017)
+- Aono, Y., Hayashi, T., Wang, L., Moriai, S., et al.: Privacy preserving deep learning via additively homomorphic encryption. IEEE transactions on information forensics and security 13(5), 1333–1345 (2017)
+- Bernstein, J., Wang, Y.X., Azizzadenesheli, K., Anandkumar, A.: signsgd: Compressed optimisation for nonconvex problems. In: International Conference on Machine Learning. pp. 560–569. PMLR (2018)
+
+
+
 
